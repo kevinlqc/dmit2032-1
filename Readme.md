@@ -1,7 +1,8 @@
-# WordPress Jabber Site
+#  Jabber Basic WordPress Theme Setup
 
-+ item
-+ item
-+ item
++ Create a folder ---theme folder
++ index.php and style.css
++ upload these files to the wordpress install
++ wpcontent > themes
 
  
