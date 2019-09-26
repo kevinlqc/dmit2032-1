@@ -1,3 +1,0 @@
-# WordPress Jabber Site
-
- 
